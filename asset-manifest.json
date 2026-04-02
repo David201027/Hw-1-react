@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HW-1-react/static/css/main.6549baf9.css",
-    "main.js": "/HW-1-react/static/js/main.d16bb7e1.js",
-    "static/js/453.0120a1e0.chunk.js": "/HW-1-react/static/js/453.0120a1e0.chunk.js",
-    "static/media/logo.svg": "/HW-1-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/HW-1-react/index.html",
-    "main.6549baf9.css.map": "/HW-1-react/static/css/main.6549baf9.css.map",
-    "main.d16bb7e1.js.map": "/HW-1-react/static/js/main.d16bb7e1.js.map",
-    "453.0120a1e0.chunk.js.map": "/HW-1-react/static/js/453.0120a1e0.chunk.js.map"
+    "main.css": "/David201027-Hw-1-react/static/css/main.6549baf9.css",
+    "main.js": "/David201027-Hw-1-react/static/js/main.abfa627f.js",
+    "static/js/453.0120a1e0.chunk.js": "/David201027-Hw-1-react/static/js/453.0120a1e0.chunk.js",
+    "static/media/logo.svg": "/David201027-Hw-1-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/David201027-Hw-1-react/index.html",
+    "main.6549baf9.css.map": "/David201027-Hw-1-react/static/css/main.6549baf9.css.map",
+    "main.abfa627f.js.map": "/David201027-Hw-1-react/static/js/main.abfa627f.js.map",
+    "453.0120a1e0.chunk.js.map": "/David201027-Hw-1-react/static/js/453.0120a1e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6549baf9.css",
-    "static/js/main.d16bb7e1.js"
+    "static/js/main.abfa627f.js"
   ]
 }
